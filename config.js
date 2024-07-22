@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧', true], //𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦
-["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true],
-["524611461431", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true]]
+["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
+["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
+["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
 
 global.mods = []
 global.prems = []
@@ -33,7 +33,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "" //example: "+525541081250"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', 1], 
-["51926933818", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
+["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1], 
+["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦"
-global.author = "𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧"
+global.packname = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,35 +130,35 @@ global.author = "𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦"
+global.gt = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 
-global.yt = "https://www.instagram.com/xjeff.store"
-global.yt2 = "https://www.instagram.com/xjeff.store"
-global.ig = "https://www.instagram.com/xjeff.store"
-global.md = "https://www.instagram.com/xjeff.store"
-global.fb = "https://www.instagram.com/xjeff.store"
-global.tk = "https://www.instagram.com/xjeff.store"
-global.ths = "https://www.instagram.com/xjeff.store"
+global.yt = "https://www.instagram.com/shadow.vz/"
+global.yt2 = "https://www.instagram.com/shadow.vz/"
+global.ig = "https://www.instagram.com/shadow.vz/"
+global.md = "https://www.instagram.com/shadow.vz/"
+global.fb = "https://www.instagram.com/shadow.vz/"
+global.tk = "https://www.instagram.com/shadow.vz/"
+global.ths = "https://www.instagram.com/shadow.vz/"
 global.paypal = 'https://www.paypal.com/xjeff.store'
-global.asistencia = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
-global.bot = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.asistencia = 'https://wa.me/5215541081250?text=Hola%20Shadow%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
+global.bot = 'https://wa.me/5215541081250?text=Hola%20Shadow%20Deseo%20Comprar%20El%20Bot%20:3' //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/xjeff.store' // Cuentas
-global.nn2 = 'https://www.instagram.com/xjeff.store' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/xjeff.store' // Help
-global.nn = 'https://www.instagram.com/xjeff.store' // Grupo 1
-global.nnn = 'https://www.instagram.com/xjeff.store' // Grupo 2
-global.nnnt = 'https://www.instagram.com/xjeff.store' // Grupo 3
-global.nnntt = 'https://www.instagram.com/xjeff.store' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/xjeff.store' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/xjeff.store' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/xjeff.store' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/xjeff.store' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/xjeff.store' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/xjeff.store' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/xjeff.store' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/xjeff.store'
-global.channel2 = 'https://www.instagram.com/xjeff.store'
+global.nna = 'https://www.instagram.com/shadow.vz/' // Cuentas
+global.nn2 = 'https://www.instagram.com/shadow.vz/' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/shadow.vz/' // Help
+global.nn = 'https://www.instagram.com/shadow.vz/' // Grupo 1
+global.nnn = 'https://www.instagram.com/shadow.vz/' // Grupo 2
+global.nnnt = 'https://www.instagram.com/shadow.vz/' // Grupo 3
+global.nnntt = 'https://www.instagram.com/shadow.vz/' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/shadow.vz/' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/shadow.vz/' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/shadow.vz/' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/shadow.vz/' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/shadow.vz/' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/shadow.vz/' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/shadow.vz/' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/shadow.vz/'
+global.channel2 = 'https://www.instagram.com/shadow.vz/'
 global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -184,8 +184,8 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦"
-global.igfg = "𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦"
+global.wm = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.igfg = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
